@@ -1,6 +1,10 @@
+#isso é um comentário, há!
 *.doc
 *.docx
 *.zip
 
-
+#ignorando deretórios (ou pastas) por nome 
 testes/
+
+
+#ignorando arquivos específicos
